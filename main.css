@@ -1,0 +1,12 @@
+.title {
+  font-family: 'Road Rage', serif;
+}
+body {
+  background-color: #7798AB;
+}
+.row {
+  margin-top: 10px;
+}
+.col {
+  text-align: center;
+}
