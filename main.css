@@ -3,10 +3,8 @@
 }
 body {
   background-color: #7798AB;
+  color: #000000;
 }
 .row {
   margin-top: 10px;
-}
-.col {
-  text-align: center;
 }
